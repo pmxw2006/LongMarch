@@ -1,1 +1,53 @@
-"本项目由我大二上学期时与老师共同完成" 
+# 🚀 薪火长征 - 数字化学习平台
+
+> "薪火长征"主题数字化学习平台，以图文、时间轴等形式展现长征历史，包含英雄人物专题、长征路线地图等模块。
+> 本项目由大二上学期与老师共同完成。
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![HTML](https://img.shields.io/badge/HTML-68.8%25-orange)]()
+[![SCSS](https://img.shields.io/badge/SCSS-13.8%25-pink)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-3.5%25-yellow)]()
+
+---
+
+## 📖 项目简介
+
+"薪火长征"是一个以长征历史为主题的数字化学习平台，旨在通过现代化的网页技术，生动形象地展示长征这段伟大历史，帮助学习者更直观地了解长征的艰辛历程和英雄事迹。
+
+## ✨ 功能特性
+
+- 📜 **时间轴展示**：以时间线形式梳理长征重大历史事件
+- 🗺️ **长征路线地图**：可视化展示长征行军路线
+- 🦸 **英雄人物专题**：详细介绍长征中的英雄人物
+- 🖼️ **图文并茂**：丰富的历史图片配合文字解说
+- 📱 **响应式设计**：适配不同设备屏幕尺寸
+
+## 🛠️ 技术栈
+
+| 技术 | 占比 |
+|------|------|
+| HTML | 68.8% |
+| SCSS | 13.8% |
+|更少| 13.6% |
+| JavaScript | 3.5% |
+| CSS | 0.3% |
+
+- **前端框架**：原生 HTML + CSS + JavaScript
+- **样式预处理**：SCSS / Less
+- **图标字体**：自定义字体图标（fonts 目录）
+
+## 📁 项目结构
+LongMarch/
+├── index.html # 主页面
+├── css/ # 样式文件
+├── js/ # JavaScript 脚本
+├── img/ # 图片资源
+├── fonts/ # 字体文件
+└── README.md # 项目说明文档
+
+## 🚀 快速开始
+
+### 环境要求
+
+- 任意现代浏览器（Chrome、Firefox、Edge 等）
+- （可选）本地服务器环境（如 VS Code 的 Live Server 插件）

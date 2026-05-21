@@ -18,26 +18,26 @@
 
 ##  技术栈
 
-| 技术 | 占比 |
-|------|------|
-| HTML | 68.8% |
-| SCSS | 13.8% |
-| Less | 13.6% |
-| JavaScript | 3.5% |
-| CSS | 0.3% |
+-| 技术 | 占比 |
+-|------|------|
+-| HTML | 68.8% |
+-| SCSS | 13.8% |
+-| Less | 13.6% |
+-| JavaScript | 3.5% |
+-| CSS | 0.3% |
 
 - **前端框架**：原生 HTML + CSS + JavaScript
 - **样式预处理**：SCSS / Less
 - **图标字体**：自定义字体图标（fonts 目录）
 
 ##  项目结构
-LongMarch/
-├── index.html # 主页面
-├── css/ # 样式文件
-├── js/ # JavaScript 脚本
-├── img/ # 图片资源
-├── fonts/ # 字体文件
-└── README.md # 项目说明文档
+-LongMarch/
+-├── index.html # 主页面
+-├── css/ # 样式文件
+-├── js/ # JavaScript 脚本
+-├── img/ # 图片资源
+-├── fonts/ # 字体文件
+-└── README.md # 项目说明文档
 
 ### 环境要求
 

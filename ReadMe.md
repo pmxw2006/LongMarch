@@ -2,12 +2,6 @@
 
 > "薪火长征"主题数字化学习平台，以图文、时间轴等形式展现长征历史，包含英雄人物专题、长征路线地图等模块。
 > 本项目由大二上学期与老师共同完成。
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![HTML](https://img.shields.io/badge/HTML-68.8%25-orange)]()
-[![SCSS](https://img.shields.io/badge/SCSS-13.8%25-pink)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-3.5%25-yellow)]()
-
 ---
 
 ## 📖 项目简介
